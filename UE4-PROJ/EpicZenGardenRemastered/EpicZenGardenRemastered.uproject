@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.21",
+	"Category": "Samples",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Ansel",
+			"Enabled": true
+		}
+	],
+	"EpicSampleNameHash": "2892299252"
+}
